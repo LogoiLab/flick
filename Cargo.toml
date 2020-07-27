@@ -1,6 +1,6 @@
 [package]
 name = "flick"
-version = "0.0.0"
+version = "0.0.1"
 authors = ["Chad Baxter <cbaxter@mail.umw.edu>"]
 edition = "2018"
 license = "GPL-2.0+"
